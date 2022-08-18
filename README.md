@@ -12,7 +12,10 @@ For exercises 2 and 3, add your files to the corresponding directory in the foll
 - powerpoint
 - drawio
 - visio
-- jpg of a diagram you drew on paper
+- jpg of a diagram you drew
 - pdf
 - Word
 - HTML
+- markdown (md)
+
+Please be sure to include the required text and diagrams.
