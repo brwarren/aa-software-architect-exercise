@@ -2,7 +2,7 @@
 Interview Exercises for software architect for American Airlines
 
 # Directions
-1. Exercise 1 - Add your comments to the pull request
+1. Exercise 1 - Create a code review for the pull request and add your comments
 2. Complete [exercise 2](Exercise2/Exercise2.md)
 3. Complete [exercise 3](Exercise3/Exercise3.md)
 4. Check your documents for 2 and 3 into your repo in the branch so they get added to the pull request 
