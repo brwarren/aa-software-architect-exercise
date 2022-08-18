@@ -1,6 +1,3 @@
-# aa-software-architect-exercise
-Interview Exercises for software architect for American Airlines
-
 # Directions
 1. Exercise 1 - Create a code review for the pull request and add your comments
 2. Complete [exercise 2](Exercise2/Exercise2.md)
